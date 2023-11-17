@@ -1,0 +1,18 @@
+{
+    "name": "vendor/crud_app",
+    "description": "app for task management",
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vendor\\CrudApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "suman2013",
+            "email": "suman.sutar2013@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+
+// PHP commands in cmd
+
+  * check PHP version *
+      php -v
+
+  * run a individual php file *
+      php file_name
+
+  * run a php project using inbuilt server *
+      php -S localhost:8000 -t your_folder/
+
+
+//MySql commands in cmd
+
+  * check mysql version *
+      mysql -V
+
+  * run mysql *
+    mysql -u username(root) -p
+    password : Suman@10
+
+    
