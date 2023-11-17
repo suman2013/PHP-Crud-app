@@ -15,8 +15,8 @@ td i + i {
 }
 
 #leftHalf {
-   background: url(todoimage.jpg);
-   /*background-color: blue;*/
+   /*background: url(todoimage.jpg);*/
+   background-color: blue;
    width: 60%;
    position: absolute;
    left: 0px;
